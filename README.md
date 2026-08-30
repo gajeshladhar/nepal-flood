@@ -112,6 +112,13 @@ each valley floor is the debris deposit; settlements on the channel margin are a
 
 <br>
 
+<img src="assets/extent.jpg" width="900">
+
+<p><sub><b>Figure 4.</b> DINOv3 extent segmentation at Syabrubesi. A single prototype vector sampled from<br>
+the OpenStreetMap channel separates water and debris from terrain without any training labels.</sub></p>
+
+<br>
+
 <table>
 <tr>
 <th align="center"><sub>&nbsp;</sub></th>
@@ -130,7 +137,7 @@ each valley floor is the debris deposit; settlements on the channel margin are a
 </tr>
 </table>
 
-<p><sub><b>Figure 4.</b> Detected building footprints. Each colour is one oriented bounding box from the<br>
+<p><sub><b>Figure 5.</b> Detected building footprints. Each colour is one oriented bounding box from the<br>
 YOLOv11-OBB detector; counts are reported in the tables above.</sub></p>
 
 </div>
