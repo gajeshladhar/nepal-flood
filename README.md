@@ -2,7 +2,8 @@
 
 <br>
 
-<h1>Rapid Satellite Damage Assessment of the 2026 Nepal Glacial Outburst Flood</h1>
+<h1>Flood Damage Mapping with DINOv3</h1>
+<h3>The 2026 Nepal Glacial Outburst Flood</h3>
 
 <p>
   <b>Gajesh Ladhar</b><br>
@@ -234,7 +235,7 @@ Nuwakot and Bidur are not.
 ```bibtex
 @software{ladhar2026nepalflood,
   author = {Ladhar, Gajesh},
-  title  = {Rapid Satellite Damage Assessment of the 2026 Nepal Glacial Outburst Flood},
+  title  = {Flood Damage Mapping with DINOv3: The 2026 Nepal Glacial Outburst Flood},
   year   = {2026},
   url    = {https://github.com/gajeshladhar/nepal-flood}
 }
