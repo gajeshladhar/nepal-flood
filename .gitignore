@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+weights/*.pt
+data/
+catalog/
+reports/batch.log
+reports/results_03m_backup.json
+outputs/maps/*.png
